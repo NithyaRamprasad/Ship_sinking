@@ -1,2 +1,2 @@
 # Ship_sinking
-This project contains implementation of ‘2D sinking ship’ using a set of OpenGL functions.
+This project contains implementation of ‘2D sinking ship’ using a set of OpenGL functions, it begins with a ship moving towards an iceberg. Later it hits the iceberg and sinks in the sea.This animation is created using OpenGL primitive functions to design the objects like ship, sea and iceberg, transformation functions to induce motion to the objects, viewing functions to view the side view of the incident, lighting functions for the lighting.
